@@ -1,0 +1,22 @@
+<libros>
+	<libro>
+		<titulo>MiLibro</titulo>
+		<autor>YoNo</autor>
+		<categoria>Espectacular</categoria>
+	</libro>
+	<libro>
+		<titulo>MiLibro2</titulo>
+		<autor>YoNo2</autor>
+		<categoria>Espectacular2</categoria>
+	</libro>
+	<libro>
+		<titulo>MiLibro3</titulo>
+		<autor>YoNo3</autor>
+		<categoria>Espectacular3</categoria>
+	</libro>
+	<libro>
+		<titulo>MiLibro4</titulo>
+		<autor>YoNo4</autor>
+		<categoria>Espectacular4</categoria>
+	</libro>
+</libros>
